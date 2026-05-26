@@ -1,0 +1,6 @@
+{
+  "name": "TinyTreasure Kids Store",
+  "description": "A premium kids eCommerce web application supporting Toys, Clothes, Accessories, and Storybooks with custom REST API playground, Caretaker Admin Dashboard, and Gemini bedtime story generators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
